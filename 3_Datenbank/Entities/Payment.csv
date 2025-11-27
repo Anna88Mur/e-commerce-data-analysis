@@ -1,0 +1,6 @@
+﻿Payment_id;Payment_Method
+1;Digital Wallet
+2;Credit Card
+3;Bank Transfer
+4;Debit Card
+5;Cash on Delivery
